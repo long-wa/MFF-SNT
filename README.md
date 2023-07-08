@@ -1,7 +1,6 @@
 # MFF-SNT
 ## Cnfiguration
-Environment configuration reference [here](https://github.com/hqucv/siamban)<br>
-Note that we provide the relevant code for the algorithm we designed at the siamban/models/model_builder.py, siamban/models/head_create.py, siamban/models/_3dmaxfilter.py and so on. <br>
+Environment configuration reference [here](https://github.com/hqucv/siamban). Note that we provide the relevant code for the algorithm we designed at the siamban/models/model_builder.py, siamban/models/head_create.py, siamban/models/_3dmaxfilter.py and so on. <br>
 If you want run our algorithm, please combine the Siamban Code. Simply, you can replace the same folder in SianBAN with the folder in our code.
 ## Method 
 The overall framework of the tracker
