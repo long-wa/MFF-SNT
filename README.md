@@ -1,2 +1,3 @@
 # MFF-SNT
-需要配的环境详见参考 https://github.com/hqucv/siamban
+## Cnfiguration
+Environment configuration reference [here](https://github.com/hqucv/siamban)
